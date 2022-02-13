@@ -2,7 +2,7 @@
 ## Hi, I’m Ana Macris! 💻
 
 - 👀 I’m interested in development .Net, Kotlin and at all related with development software.
-- 🌱 I’m currently learning Kotling and recycling my knowledge in C#.
+- 🌱 I’m currently learning and recycling my knowledge in C#, .NET and Microsservices.
 - 📫 How to reach me on IN: www.linkedin.com/in/anaferreiramacris
 
 <div>
