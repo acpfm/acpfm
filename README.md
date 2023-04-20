@@ -1,8 +1,12 @@
 
 ## Hi, I’m Ana Macris! 💻
 
-- 👀 I’m interested in development .Net, C# and at all related with development software.
-- 🌱 I’m currently learning and recycling my knowledge in C#, .NET and Microsservices.
+- 👀 I am a IT professional with emphasis in software development. Focused making business day by day simpler. With more than 15 years of experience, 
+     mainly distributed in customer service and software development.
+     I have high analytical capacity and to solve problems of different levels of complexity.
+     During these years, I have acquired experience in requirements analysis, customer service and training. As well as software development and database script.
+ 
+- 🌱 I’m currently learning and recycling my knowledge in C#, .NET and always improve my knowledge in PL/SQL.
 - 📫 How to reach me on IN: www.linkedin.com/in/anaferreiramacris
 
 <div>
