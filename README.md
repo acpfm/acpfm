@@ -6,7 +6,7 @@
      I have high analytical capacity and to solve problems of different levels of complexity.
      During these years, I have acquired experience in requirements analysis, customer service and training. As well as software development and database script.
  
-- 🌱 I’m currently learning and recycling my knowledge in C#, .NET and always improve my knowledge in PL/SQL.
+- 🌱 I’m currently learning and recycling my knowledge in Java and People management and always improve my knowledge in C#, .NET, PL/SQL.
 - 📫 How to reach me on IN: www.linkedin.com/in/anaferreiramacris
 
 <div>
